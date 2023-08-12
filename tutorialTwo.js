@@ -1,0 +1,13 @@
+let g = 1;
+let y = 2;
+let m = 3;
+let a = 3 + m; 
+let b = g + y; 
+let d = a/b;
+let e = d/m;
+let f = 4 * e; 
+let h = b * b; 
+let I = b/b;
+let j = I * h; 
+let c = j - f; 
+console.log(c);
