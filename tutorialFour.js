@@ -1,0 +1,12 @@
+let c = 1;
+let d = 2;
+let h = 3;
+let f = 4;
+let a = h - 2;
+let b = f/a;
+let e = b**2;
+let I = h - e; 
+let j = c + d;
+let k = c/j;
+let y = k + I; 
+console.log(y);
